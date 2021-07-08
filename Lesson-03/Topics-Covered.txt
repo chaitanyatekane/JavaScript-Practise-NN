@@ -1,0 +1,9 @@
+Tool Recommended :- VS Code by Microsoft
+
+VS Code Extensions :-
+(1). Live Server
+(2). Material Icon Theme
+(3). Monokai++
+
+## What is Server?
+Request -----> Web Server -----> Response -----> Our Website
