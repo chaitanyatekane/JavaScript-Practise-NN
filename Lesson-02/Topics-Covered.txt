@@ -1,0 +1,5 @@
+-> Why JavaScript
+Making awesome things in browser like digital clocks, quizzes, chat rooms, weather apps, etc.
+-> The possibilities are endless
+make mobile apps, program robots
+create a VR game
