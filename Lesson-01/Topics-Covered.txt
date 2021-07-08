@@ -1,0 +1,10 @@
+Javascript -> Universal Language
+Websites & Apps
+Server-Side Code (NodeJS)
+Programming Robots
+
+Javascript on front-end
+-> Javascript that runs in a browser
+-> Add interactivity to web pages
+-> Animations, web forms, UI elements, using Apis and data
+-> Using modern javascript syntax and techniques
