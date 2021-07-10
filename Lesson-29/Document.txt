@@ -1,0 +1,3 @@
+## What are Functions
+
+Functions -> Part of Object Data Type
