@@ -1,0 +1,15 @@
+## Objects at glance
+
+-> Objects in real life have properties & things they can do(methods)...
+
+Example (01) :- Mobile Phone Object
+Properties -> Color, Size, Model
+Methods -> Ring, Take a Picture, Play Music
+
+Example (02) :- User Object
+Properties :- email, username, gender, password
+Methods :- login, logout
+
+Example (03) :- Blog Object
+Properties :- title, content, author
+Methods :- publish, un-publish, delete
