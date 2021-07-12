@@ -1,0 +1,10 @@
+## Interacting with the Browser
+
+-> add content to the browser
+-> change css styles
+-> react to user events
+-> cool effects like popups
+
+-> document object model(DOM)
+-> add, change, and delete content
+-> make a cool popup effect in web page
