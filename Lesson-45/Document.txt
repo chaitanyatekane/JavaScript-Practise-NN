@@ -1,0 +1,15 @@
+## Document Object Model(DOM) Explained
+
+-> created by browser
+-> 'document' Object
+-> type 
+    document and press enter in console
+    press document.URL and enter
+    press document.location and enter
+
+
+## Document Object Model(hierarchy order of nodes)
+html
+    (a) head (b) body
+(1) title       (1). h1  (2) div  (2) div
+                            (1) p  (2) p
