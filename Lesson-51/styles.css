@@ -1,0 +1,24 @@
+.error {
+    padding: 10px;
+    color: crimson;
+    border: 1px dotted crimson;
+}
+
+.success {
+    padding: 10px;
+    color: limegreen;
+    border: 1px dotted limegreen;
+}
+
+.fontSize {
+    font-size: large;
+}
+
+.test {
+    font-size: larger;
+}
+
+.title {
+    color: mediumblue;
+    font-size: 2rem;
+}
