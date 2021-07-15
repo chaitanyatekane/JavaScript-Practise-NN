@@ -2,8 +2,9 @@
 
 #### Topics Covered :-
 <br>
-* Query Selector
-* Changing CSS styles by adding event listener (click event)
+(1). Query Selector
+<br>
+(2). Changing CSS styles by adding event listener (click event)
 <br>
 
 #### Demo :-
