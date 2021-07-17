@@ -1,0 +1,36 @@
+## Regular Expressions
+
+-> Practice this on   regex101.com
+
+-> Regular expression starts with forward slash and ends with forward slash
+example :- /   /
+
+More Examples :-
+# /ninja/     lsnf lhreu ninja     1-match
+# /^ninja$/     anjsjn ninja dsbdbds     0-match
+# /^ninja$/     ninja     1-match     (this will only match when there is nothing before it and after it)
+# /^[a-z]$/     hp     0-match
+# /^[a-z]$/     h     1-match     (this will only match when there is single character between a to z in small case)
+# /^[a-z]$/     H     0-match
+# /^[a-zA-Z]$/     H     1-match     (this will only match when there is single character between a to z in small case as well as upper case)
+# /^[a-zA-Z]$/     h     1-match
+# /^[a-zA-Z]$/     Hp     0-match
+# /^[a-zA-Z]$/     HP     0-match
+# /^[a-zA-Z]$/     hp     0-match
+# /^[a-zA-Z]{6,10}$/     hellot     1-match     (this will only match when there is word(single word) which has characters from 6 to 10(small case as well as upper case))
+# /^[a-zA-Z]{6,10}$/     hello     0-match
+# /^[a-zA-Z]{6,10}$/     hellohello     1-match
+# /^[a-zA-Z]{6,10}$/     hellohellot     0-match
+# /^[a-zA-Z]{6,10}$/     hellotr2     0-match
+# /^[a-zA-Z0-9]{6,10}$/     hello34     1-match     (this will only match when there is word(single word) which has characters from 6 to 10(small case as well as upper case) and will also match when it includes numbers)
+# /^[a-zA-Z0-9]{6,10}$/     hello34@     0-match
+# /^[a-zA-Z0-9]{6,10}$/     hellotyhu7     1-match
+# /^[a-zA-Z0-9]{6,10}$/     heyyu*tr     0-match
+# /^.{6,10}$/     iuthyg@23     1-match     (this will accept every character, letter, number, special symbol, etc. but it should be or total characters should be from 6 to 10 including 6 and 10)
+# /^.{6,10}$/     tyhg1#     1-match
+# /^.{6,10}$/     iujht6%@23     1-match
+# /^.{6,10}$/     htghyf     1-match
+# /^.{6,10}$/     666666     1-match
+# /^.{6,10}$/     *&%$#@     1-match
+# /^.{6,10}$/     chaitanayatekane     0-match
+# /^.{6,10}$/     sonutekane$23     0-match
